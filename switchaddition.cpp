@@ -13,6 +13,7 @@ int main()
   cin>>valueTwo;
   cout<<"Please enter your choice:\n1.Add\n2.sub\n3.multi\n4.Divid"<<endl;
   cin>>choice;
+	//using switch statement 
   switch(choice)
   {
   	case 1:
